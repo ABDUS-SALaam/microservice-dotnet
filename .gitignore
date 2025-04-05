@@ -8,6 +8,7 @@
 # Ignore build results
 bin/
 obj/
+Debug/
 
 # Ignore package directories
 packages/
